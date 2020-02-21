@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc9e59eb7e456f41bf614e2bf5b66cc, type: 3}
+  m_Name: tower_0
+  m_EditorClassIdentifier: 
+  mainObject: {fileID: 6902565206468176399, guid: 0919102f2969cf641858e258f0aca78a,
+    type: 3}
+  build_price: 10
+  sell_price: 5
+  tower_range: 2
+  shoot_interval: 1.3
+  tower_damage: 5
